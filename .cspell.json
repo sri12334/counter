@@ -6,7 +6,8 @@
     "wireframe",
     "lcov",
     "Pellegrini",
-    "stackoverflow"
+    "stackoverflow",
+    "Todos"
   ],
   "ignorePaths": [
     "node_modules/**",

@@ -1,6 +1,6 @@
 # Project name
 
-> Project definition
+> Counter
 
 ## Table of contents
 
@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./style/Screenshot%20.png)
 
 ## Technologies
 
